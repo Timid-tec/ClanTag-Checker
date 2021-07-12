@@ -4,6 +4,9 @@ Checks for Clan-Tags inside fo CS:GO, if the player has the clan-tag inside the 
 # Game Supported
 - CS:GO
 
+# Things to Add
+- Add supported ConVars.
+
 # How to Install
 - Donwload clantag-checker.smx and put into /csgo/addons/sourcemod/plugins
 - Configure settings by editing addons/sourcemod/configs/clantag.cfg
