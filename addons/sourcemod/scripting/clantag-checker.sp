@@ -10,14 +10,12 @@ public Plugin myinfo =
 	url = ""
 };
 
-//ConVar
+/* ConVar Values */
 ConVar g_cvTagName;
 
-//String Values
+/* Char Values */
 char sectionName[100];
 char nametag[32];
-
-/* Int Values */
 char g_cNameTag[32];
 
 
