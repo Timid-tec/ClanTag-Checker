@@ -5,7 +5,7 @@ Checks for Clan-Tags inside fo CS:GO, if the player has the clan-tag inside the 
 - CS:GO
 
 # ConVars
-- sm_check_tag - Tag to check for switching (def. ☾MoonGlow☽ )"
+- sm_check_tag - Tag to check for switching (def. ☾MoonGlow☽ )
 
 # How to Install
 - Donwload clantag-checker.smx and put into /csgo/addons/sourcemod/plugins
