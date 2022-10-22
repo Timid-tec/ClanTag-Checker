@@ -1,4 +1,6 @@
-# ClanTag-Checker
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=F7E7E5&background=F8000000&lines=ClanTag+Checker&center=true&width=500&height=50"></a>
+   </p>
 Checks for Clan-Tags inside fo CS:GO, if the player has the clan-tag inside the (addons/sourcemod/configs/clantag.cfg) Switch the players clangtag to what you wan't it to be.
 
 ## Game Supported
