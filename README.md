@@ -17,5 +17,6 @@ Checks for Clan-Tags inside fo CS:GO, if the player has the clan-tag inside the 
 
 | Version | Change-Log          |
 | ------- | ------------------ |
+| 4.2.2   | Added some changes to include, and other issues fixed  |
 | 4.2.1   | Added ConVar "sm_check_tag" |
-| 4.2.0   | 	Added addons/sourcemod/configs/clantag.cfg |
+| 4.2.0   | Added addons/sourcemod/configs/clantag.cfg |
